@@ -241,4 +241,4 @@ This repository serves as the official landing page for **3DMOO**. The software 
 **Get the most recent version of 3DMOO today!**
 
 ---
-**Last updated:** 2026-09-13 23:45:40 UTC
+**Last updated:** 2026-09-14 02:15:23 UTC
